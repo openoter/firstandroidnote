@@ -1,6 +1,7 @@
-# Summar
+# Summary
 
-* [第一章 开始启程，第一行Android代码](first_start.md)
+* [Introduction](README.md)
+* [第一章 开始启程，第一行Android代码](firststart_md.md)
 * [第二章 探究Activity](second_activity.md)
 * [第三章 UI开发](third_UI.md)
 * [第四章 探究碎片](fourth_fragment.md)
@@ -13,3 +14,4 @@
 * [第十一章 高级技巧](Eleventh_advanced.md)
 * [第十二章 实战，开发库欧天气](Twelfth_actualCombat.md)
 * [第十三章 将应用发布到Google play](Thirteenth_release.md)
+
