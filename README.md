@@ -1,3 +1,7 @@
-# My Awesome Book
+# 概述
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+作者本人一个Android爱好者，想通过自学的方式，入门Android开发，进而能找到一个合适的Android开发的工作。
+
+而这本笔记，就是学习Android的开始。
+
+笔记是根据郭霖大神的《第一行代码》来进行记录的
